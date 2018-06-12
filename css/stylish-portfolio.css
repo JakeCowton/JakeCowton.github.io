@@ -252,3 +252,15 @@ footer {
 .flags {
   font-size: 2em;
 }
+
+#publication-list {
+    list-style: none;
+}
+
+.citation {
+    padding: 2%;
+}
+
+.paper-title{
+    color: white;
+}
